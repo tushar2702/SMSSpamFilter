@@ -1,0 +1,23 @@
+@RELATION spam
+@attribute message string 
+@attribute classname {ham, spam} 
+@data
+'A 400 XMAS REWARD IS WAITING FOR YOU Our computer has randomly picked you from our loyal mobile customers to receive a 400 reward Just call 09066380611 ',?
+'Just trying to figure out when I m suppose to see a couple different people this week We said we d get together but I didn t set dates ',?
+'IMPORTANT MESSAGE This is a final contact attempt You have important messages waiting out our customer claims dept Expires 13 4 04 Call 08717507382 NOW ',?
+'Hi mom we might be back later than lt gt ',?
+'dating i have had two of these Only started after i sent a text to talk sport radio last week Any connection do you think or coincidence ',?
+'Lol oh you got a friend for the dog ',?
+'Ok is any problem to u frm him Wats matter ',?
+'K I ll head out in a few mins see you there ',?
+'Do u konw waht is rael FRIENDSHIP Im gving yuo an exmpel Jsut ese tihs msg Evrey splleing of tihs msg is wrnog Bt sitll yuo can raed it wihtuot ayn mitsake GOODNIGHT amp HAVE A NICE SLEEP SWEET DREAMS ',?
+'I cant pick the phone right now Pls send a message ',?
+'I don t want you to leave But i m barely doing what i can to stay sane fighting with you constantly isn t helping ',?
+'The current leading bid is 151 To pause this auction send OUT Customer Care 08718726270 ',?
+'Free entry to the gr8prizes wkly comp 4 a chance to win the latest Nokia 8800 PSP or 250 cash every wk TXT GREAT to 80878 http www gr8prizes com 08715705022 ',?
+'Somebody set up a website where you can play hold em using eve online spacebucks ',?
+'Its sunny in california The weather s just cool ',?
+'You have 1 new message Call 0207 083 6089 ',?
+'I can make it up there squeezed lt gt bucks out of my dad ',?
+'Good day to You too Pray for me Remove the teeth as its painful maintaining other stuff ',?
+'How are you babes Hope your doing ok I had a shit nights sleep I fell asleep at 5 I m knackered and i m dreading work tonight What are thou upto tonight X ',?
